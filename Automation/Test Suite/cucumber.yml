@@ -1,0 +1,3 @@
+#for every execution, it'll create an HMTL file
+
+default: --format html --out report.html

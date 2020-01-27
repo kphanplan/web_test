@@ -1,0 +1,9 @@
+#central location to maintain gems for the project
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'watir'
+gem 'rspec'
+gem 'page-object'
+gem 'selenium-webdriver'
+gem 'ffi'
